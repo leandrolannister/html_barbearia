@@ -1,11 +1,14 @@
 
 body{
-  background-color: #ccc;
   margin: auto;
 }
 
 #banner{
   width: 30%;
+}
+
+.principal{
+  background-color: #ccc;
 }
 
 h1{
@@ -23,6 +26,14 @@ p {
 
 .itens {
   font-style: italic;
+}
+
+.beneficios{
+  background-color: #fff;
+}
+
+h2{
+  text-align: center;
 }
 
 
