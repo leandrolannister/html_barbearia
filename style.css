@@ -1,14 +1,12 @@
 
-body{
-  margin: auto;
-}
-
 #banner{
-  width: 30%;
+  width: 100%;
+  margin: auto;
 }
 
 .principal{
   background-color: #ccc;
+  padding: 30px;
 }
 
 h1{
@@ -30,10 +28,22 @@ p {
 
 .beneficios{
   background-color: #fff;
+  padding: 20px;
 }
 
 h2{
   text-align: center;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15%;
+  width: 20%;
+}
+
+.img-beneficios {
+  width: 50%;
 }
 
 
