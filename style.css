@@ -1,7 +1,11 @@
 
+.tituloPrincipal{
+  padding-left: 20px;
+}
+
 #banner{
   width: 100%;
-  margin: auto;
+ 
 }
 
 .principal{
@@ -9,7 +13,7 @@
   padding: 30px;
 }
 
-h1{
+.subTitulo{
   text-align: center;
 }
 
@@ -29,10 +33,6 @@ p {
 .beneficios{
   background-color: #fff;
   padding: 20px;
-}
-
-h2{
-  text-align: center;
 }
 
 ul{
